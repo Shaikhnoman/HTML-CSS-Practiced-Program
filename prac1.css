@@ -1,0 +1,15 @@
+.css{
+    color:blueviolet;
+    background-color: blanchedalmond;
+}
+#h1{
+    color: chartreuse;
+    background-color: darkgoldenrod ;
+    width: 50%;
+}
+h2{
+    color: #832eb1;
+    background-color: #6ab2b4;
+    width: 30vw;
+    height: 10vh;
+}

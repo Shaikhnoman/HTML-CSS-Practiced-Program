@@ -1,0 +1,25 @@
+*{
+    height: 0;
+    width: 0;
+}
+nav{
+    background-color: aqua;
+    padding: 5vh 0;
+}
+h1{
+    text-shadow:3px 3px 3px white ;
+}
+logo{
+    display: inline-block;
+    margin-left: 20px;
+}
+.content{
+    display: inline-block;
+    margin-left:20px ;
+
+}
+ul li a{
+    display: inline-block;
+    color: black;
+
+}

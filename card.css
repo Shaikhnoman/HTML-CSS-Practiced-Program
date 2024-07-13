@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.card{
+    height: 70vh;
+    width:23vw;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px;
+    border-radius: 15px;
+    margin-left: 38vw;
+    margin-top: 15vh;
+    position: relative;
+}
+.upper{
+    background-color: palevioletred;
+    height:30vh ;
+    border-radius:15px 15px 0 0 ;
+    
+}
+img{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+#desig{
+    color: blue;
+    margin-top: 10px;
+}
+.image{
+    position: absolute;
+    top: 38%;
+    left: 43%;
+}
+h3,p{
+    margin-top: 25px;    
+
+}
+button{
+    background-color:palevioletred ;
+    border-radius: 20px ;
+    padding: 2px 23px ;
+    margin-top: 20px;
+}
